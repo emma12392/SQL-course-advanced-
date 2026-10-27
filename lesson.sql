@@ -6,3 +6,8 @@ SELECT
 	*
 FROM
 	PatientStay ps ;
+
+SELECT
+	*
+FROM
+	Tally t;
